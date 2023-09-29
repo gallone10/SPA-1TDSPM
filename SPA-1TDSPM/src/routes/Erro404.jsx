@@ -10,5 +10,4 @@ export default function Erro404() {
       {/* <Link to="/">Voltar para a página inicial.</Link> */}
       <p>Voltar para o início - <Link to="/">VOLTAR</Link></p>
     </div>
-  )
-}
+  )}
