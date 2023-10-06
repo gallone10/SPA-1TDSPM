@@ -5,6 +5,7 @@ export default function Home() {
       <figure>
         <img src="/img/produtos_all.jpg" alt="Vários produtos." />
       </figure>
+
     </div>
   )
 }
